@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Simple-Calculator.git
+    git clone https://github.com/abhishekgurjarin/Simple-Calculator.git
     ```
 
 2. **Open the project directory**:
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Simple Calculator [here](https://abhishekboadgurjar.github.io/Simple-Calculator/).
+You can check out the live demo of the Simple Calculator [here](https://abhishekgurjarin.github.io/Simple-Calculator/).
 
 ## Screenshots
 ![Screenshot 2024-08-22 234141](https://github.com/user-attachments/assets/ddefedd7-268f-4bc7-964f-7444f3042d16)
@@ -64,4 +64,4 @@ This project was developed as part of my journey to enhance my web development s
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
